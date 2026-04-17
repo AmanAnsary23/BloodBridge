@@ -1,10 +1,24 @@
 # 🩸 BloodConnect — Blood Donation Emergency Notification System
 
-![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-green?style=for-the-badge&logo=springboot)
-![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=for-the-badge&logo=mysql)
-![JWT](https://img.shields.io/badge/JWT-Auth-red?style=for-the-badge&logo=jsonwebtokens)
+##Home
+<img width="1905" height="957" alt="Home" src="https://github.com/user-attachments/assets/7d4f384c-9ba7-4a05-8b86-783eeb05197f" />
+
+##Doctor Register
+<img width="1905" height="957" alt="Doctorregister" src="https://github.com/user-attachments/assets/24d4082a-4eda-4509-a8d8-9a0d4d1f0cf5" />
+
+##Donor Register
+<img width="1905" height="957" alt="DonorRegister" src="https://github.com/user-attachments/assets/7b76feba-0ac1-4908-abc3-753a7ab63758" />
+
+##Doctor Dashboard
+<img width="1905" height="963" alt="doctorDashboard" src="https://github.com/user-attachments/assets/433a68bd-91e5-414f-be08-d87435810b78" />
+
+##Donor Dashborad
+<img width="1905" height="963" alt="donorDashboard" src="https://github.com/user-attachments/assets/d4efc60c-bf23-4df8-986c-c9d73bf67700" />
+
+##Email
+<img width="1602" height="473" alt="email" src="https://github.com/user-attachments/assets/bb34406d-6d02-4a14-8013-e1cd358e24de" />
+
+
 
 > A full-stack web application that connects hospitals with blood donors during emergencies. When a hospital needs urgent blood, it posts a request and **all registered donors in that city instantly receive an email notification.**
 
