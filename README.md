@@ -1,25 +1,5 @@
 # 🩸 BloodConnect — Blood Donation Emergency Notification System
 
-##Home
-<img width="1905" height="957" alt="Home" src="https://github.com/user-attachments/assets/7d4f384c-9ba7-4a05-8b86-783eeb05197f" />
-
-##Doctor Register
-<img width="1905" height="957" alt="Doctorregister" src="https://github.com/user-attachments/assets/24d4082a-4eda-4509-a8d8-9a0d4d1f0cf5" />
-
-##Donor Register
-<img width="1905" height="957" alt="DonorRegister" src="https://github.com/user-attachments/assets/7b76feba-0ac1-4908-abc3-753a7ab63758" />
-
-##Doctor Dashboard
-<img width="1905" height="963" alt="doctorDashboard" src="https://github.com/user-attachments/assets/433a68bd-91e5-414f-be08-d87435810b78" />
-
-##Donor Dashborad
-<img width="1905" height="963" alt="donorDashboard" src="https://github.com/user-attachments/assets/d4efc60c-bf23-4df8-986c-c9d73bf67700" />
-
-##Email
-<img width="1602" height="473" alt="email" src="https://github.com/user-attachments/assets/bb34406d-6d02-4a14-8013-e1cd358e24de" />
-
-
-
 > A full-stack web application that connects hospitals with blood donors during emergencies. When a hospital needs urgent blood, it posts a request and **all registered donors in that city instantly receive an email notification.**
 
 ---
@@ -27,28 +7,28 @@
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](home.png)
+<img width="1905" height="957" alt="Home" src="https://github.com/user-attachments/assets/7d4f384c-9ba7-4a05-8b86-783eeb05197f" />
 
 ### 🏥 Doctor Register
-![Doctor Register](doctor-register.png)
+<img width="1905" height="957" alt="Doctorregister" src="https://github.com/user-attachments/assets/24d4082a-4eda-4509-a8d8-9a0d4d1f0cf5" />
 
 ### 🩸 Donor Register
-![Donor Register](donor-register.png)
+<img width="1905" height="957" alt="DonorRegister" src="https://github.com/user-attachments/assets/7b76feba-0ac1-4908-abc3-753a7ab63758" />
 
 ### 🔐 Login Page
-![Login Page](home.png)
+<img width="1905" height="963" alt="Login" src="https://github.com/user-attachments/assets/d9c069bb-09f8-4954-811d-561688c82a46" />
 
 ### 🩺 Doctor Dashboard (Empty)
-![Doctor Dashboard](doctor-dashboard.png)
+<img width="1905" height="963" alt="doctorDashboard" src="https://github.com/user-attachments/assets/433a68bd-91e5-414f-be08-d87435810b78" />
 
 ### 🚨 Doctor Dashboard (Filled — Sending Request)
 ![Doctor Dashboard Filled](doctor-dashboard-filled.png)
 
 ### 💗 Donor Dashboard
-![Donor Dashboard](donor-dashboard.png)
+<img width="1905" height="963" alt="donorDashboard" src="https://github.com/user-attachments/assets/d4efc60c-bf23-4df8-986c-c9d73bf67700" />
 
 ### 📧 Email Notification (Received by Donor)
-![Email Notification](email.png)
+<img width="1602" height="473" alt="email" src="https://github.com/user-attachments/assets/bb34406d-6d02-4a14-8013-e1cd358e24de" />
 
 ---
 
