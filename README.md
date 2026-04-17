@@ -21,9 +21,6 @@
 ### 🩺 Doctor Dashboard (Empty)
 <img width="1905" height="963" alt="doctorDashboard" src="https://github.com/user-attachments/assets/433a68bd-91e5-414f-be08-d87435810b78" />
 
-### 🚨 Doctor Dashboard (Filled — Sending Request)
-![Doctor Dashboard Filled](doctor-dashboard-filled.png)
-
 ### 💗 Donor Dashboard
 <img width="1905" height="963" alt="donorDashboard" src="https://github.com/user-attachments/assets/d4efc60c-bf23-4df8-986c-c9d73bf67700" />
 
